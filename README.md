@@ -5,9 +5,11 @@ Customer ge nama, bike number, phone number, karapu wada saha ganan kiyanna, app
 
 ## ⬇️ Download
 
-**[GarageBill.apk download karanna](../../releases/latest/download/GarageBill.apk)**
+**[GarageBill.apk download karanna](../../releases/latest/download/GarageBill.apk)**: bohoma phones walata meka
 
-Hama welema aluthma version eka me link eken enawa.
+Parana phone ekaka "App not installed" awoth: **[GarageBill-old-phones.apk](../../releases/latest/download/GarageBill-old-phones.apk)**
+
+Hama welema aluthma version eka me links walin enawa.
 
 ## Install karana widiya
 
@@ -19,7 +21,9 @@ Hama welema aluthma version eka me link eken enawa.
 ## App eken karanna puluwan dewal
 
 - 🎤 **Katha karala bill hadanna**: Sinhala, English nathnam dekama kalawam
-- 🧾 **Bill AI eka**: ahuna deyin nama, phone, bike number, services, ganan wen karanawa. Offline (internet oney naha)
+- 🎤 **Ape Sinhala Ahana AI eka**: Google nathuwa, internet nathuwa Sinhala katha therum gannawa
+- 🧾 **Bill AI eka**: ahuna deyin nama, phone, bike number, services, ganan wen karanawa
+- 📴 Sampurnayenma **offline**
 - 💬 WhatsApp / PDF / thermal printer walata bill eka
 - 📒 Bills history, naya (credit), masika report
 - 💰 Garage eke price list eka
