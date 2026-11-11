@@ -25,7 +25,9 @@ Hama welema aluthma version eka me links walin enawa.
 - 🧾 **Bill AI eka**: ahuna deyin nama, phone, bike number, services, ganan wen karanawa
 - 📴 Sampurnayenma **offline**
 - 💬 WhatsApp / PDF / thermal printer walata bill eka
-- 📒 Bills history, naya (credit), masika report
+- 📒 Bills history, masika report saha **ada aadayama** (Today's earnings, dawas 7 ka chart ekak ekka)
+- 💵 **Advance** salli: bike eka denakotama advance eka save karala, bill eke antimata adu karanawa
+- 🗑️ Waradi bill ekak **delete** karanna (Undo ekath ekka)
 - 💰 Garage eke price list eka
 
 ## Versions
